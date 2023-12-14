@@ -1,0 +1,100 @@
+.menu {
+  width: 80%;
+  max-width: 1200px;
+  height: 100px;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.logocbs {
+  width: 60px;
+  height: 60px;
+  margin-left: 10px;
+}
+
+.header {
+  width: 80%;
+  max-width: 1200px;
+  height: 400px;
+  background-color: #9373b1;
+  margin: 0 auto;
+}
+
+.textbox {
+  width: 390px;
+  text-align: left;
+  display: inline-block;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+h2 {
+  color: #eeeded;
+  font-family: SohoW01-Medium;
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.875rem;
+}
+
+h3 {
+  font-family: SohoW01-Medium;
+  color: #163a72;
+}
+
+p {
+  font-family: AkkoW01-Regular;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+
+main {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: yellow;
+}
+
+.wrapper {
+  max-width: 1200px; /* Set your desired maximum width */
+  margin: 0 auto; /* Center the container */
+}
+
+.column {
+  width: calc(33.33% - 30px);
+  float: left;
+  margin-right: 30px; /* Space between columns */
+  box-sizing: border-box;
+  background-color: #f0f0f0;
+}
+
+.last {
+  margin-right: 0;
+  background-color: aqua;
+}
+
+.clear {
+  clear: both;
+}
+
+.columnimage {
+  width: 100%;
+}
+
+a {
+  font-family: AkkoW01-Regular;
+  font-size: 1rem;
+  text-decoration: none;
+  color: #163a72;
+  padding: 15px;
+  border-radius: 3px;
+  background-color: #9373b1;
+  color: white;
+  display: inline-block;
+}
