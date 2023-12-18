@@ -37,7 +37,7 @@
 }
 
 a {
-  font-family: akko;
+  font-family: akko, sans-serif;
   font-size: 1.1rem;
   text-decoration: none;
   color: black;
@@ -64,30 +64,28 @@ a {
 /* text */
 h1 {
   color: #eeeded;
-  font-family: soho;
+  font-family: soho, sans-serif;
   font-size: 4rem;
   text-align: center;
 }
 
 h2 {
   color: #eeeded;
-  font-family: soho;
+  font-family: soho, sans-serif;
   font-size: 1.5rem;
   font-style: normal;
-  font-weight: 400;
   line-height: 2.6rem;
 }
 
 h3 {
-  font-family: soho;
+  font-family: soho, sans-serif;
   color: #163a72;
   padding: 0 0 0 20px;
 }
 
 p {
-  font-family: akko;
+  font-family: akko, sans-serif;
   font-size: 1rem;
-  font-style: normal;
   font-weight: 400;
   line-height: 1.5rem;
   padding: 0 20px 0 20px;
@@ -158,7 +156,6 @@ main {
   color: #163a72;
   padding: 15px;
   margin: 20px 0 20px 20px;
-  border-radius: 5px;
   background-color: #9373b1;
   color: white;
   display: inline-block;
