@@ -1,11 +1,11 @@
 @font-face {
   font-family: akko;
-  src: url(/assets/fonts/akko.otf);
+  src: url(../assets/fonts/akko.otf);
 }
 
 @font-face {
   font-family: soho;
-  src: url(/assets/fonts/soho.otf);
+  src: url(../assets/fonts/soho.otf);
 }
 
 /* menu begin */
